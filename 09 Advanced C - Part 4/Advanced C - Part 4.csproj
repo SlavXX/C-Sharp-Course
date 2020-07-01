@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_09_Advanced_C___Part_4</RootNamespace>
+    <StartupObject>_09_Advanced_C___Part_4.NullableTypes</StartupObject>
+  </PropertyGroup>
+
+</Project>

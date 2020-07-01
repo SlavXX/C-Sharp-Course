@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_07_Advanced_C___Part_2</RootNamespace>
+    <StartupObject>_07_Advanced_C___Part_2.Non_Generic_Stacks_Queues_BitArrays</StartupObject>
+  </PropertyGroup>
+
+</Project>
