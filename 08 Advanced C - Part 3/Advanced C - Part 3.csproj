@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>_08_Advanced_C___Part_3</RootNamespace>
-    <StartupObject>_08_Advanced_C___Part_3.AssignmentNo17</StartupObject>
+    <StartupObject>_08_Advanced_C___Part_3.AssignmentNo18</StartupObject>
   </PropertyGroup>
 
 </Project>

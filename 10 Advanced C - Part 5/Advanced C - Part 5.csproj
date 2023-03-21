@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15DD1A7D-6F9A-44AE-9BC3-E37984A7D124}</ProjectGuid>
+    <ProjectGuid>{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>The_Fundamentals_of_C_Programming_Part_2</RootNamespace>
-    <AssemblyName>The Fundamentals of C Programming Part 2</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RootNamespace>_10_Advanced_C___Part_5</RootNamespace>
+    <AssemblyName>10 Advanced C - Part 5</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -34,11 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>The_Fundamentals_of_C_Programming_Part_2.ConditionalStatements</StartupObject>
+    <StartupObject>_10_Advanced_C___Part_5.SpeechSynthesizerApp</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,7 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="The Fundamentals of C# Programming part 2.cs" />
+    <Compile Include="Advanced C - Part 5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

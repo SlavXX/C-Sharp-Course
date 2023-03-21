@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>_09_Advanced_C___Part_4</RootNamespace>
-    <StartupObject>_09_Advanced_C___Part_4.NullableTypes</StartupObject>
+    <StartupObject>_09_Advanced_C___Part_4_part3.AssignmentNo19</StartupObject>
   </PropertyGroup>
 
 </Project>

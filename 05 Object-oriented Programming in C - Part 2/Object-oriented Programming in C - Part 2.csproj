@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Object_oriented_Programming_in_C___Part_2</RootNamespace>
     <AssemblyName>Object-oriented Programming in C - Part 2</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -53,7 +54,7 @@
     <Compile Include="Point.cs" />
     <Compile Include="GetSet.cs" />
     <Compile Include="movie.cs" />
-    <Compile Include="program2.cs" />
+    <Compile Include="Object-oriented Programming in C# part 2.cs" />
     <Compile Include="AssignmentNo7.cs" />
     <Compile Include="AssignmentNo8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

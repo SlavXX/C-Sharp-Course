@@ -97,7 +97,7 @@ namespace The_Fundamentals_of_C_Programming_Part_1
             string accountNo = "";
             float anyNo = 3.1f;
 
-            //accountNo = serialNo//this breaks cos it cant convert explicetly.
+            //accountNo = serialNo //this breaks cos it cant convert explicetly.
             accountNo = serialNo.ToString(); //the tostring converts ints to string. That is numbers to letters.
             Console.WriteLine(accountNo);
             //anyNo = serialNo;// this works cos float CAN handle integers but not the other way.

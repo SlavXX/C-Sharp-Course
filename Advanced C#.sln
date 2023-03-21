@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29519.87
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced C - Part 1", "06 Advanced C - Part 1\Advanced C - Part 1.csproj", "{C3ABB07C-3500-4C8B-94A1-089C73B2B72F}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advanced C - Part 3", "08 Advanced C - Part 3\Advanced C - Part 3.csproj", "{AE6C963C-7B54-422C-BCBE-B76CBA717527}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced C - Part 4", "09 Advanced C - Part 4\Advanced C - Part 4.csproj", "{70269738-5DED-4D95-9901-D2C9377F6897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced C - Part 5", "10 Advanced C - Part 5\Advanced C - Part 5.csproj", "{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{70269738-5DED-4D95-9901-D2C9377F6897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70269738-5DED-4D95-9901-D2C9377F6897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70269738-5DED-4D95-9901-D2C9377F6897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3CB00F-4A06-4ED2-9179-1F1F95E850D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

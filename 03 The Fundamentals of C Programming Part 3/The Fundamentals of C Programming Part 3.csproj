@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>_03_The_Fundamentals_of_C_Programming_Part_3</RootNamespace>
-    <StartupObject>The_Fundamentals_of_C_Programming_Part_3.maths</StartupObject>
+    <StartupObject>Arrays</StartupObject>
   </PropertyGroup>
 
 </Project>
